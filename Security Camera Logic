@@ -1,0 +1,29 @@
+int rx = 0;
+int tx = 1;
+int sensPin = 2;
+int camPin1 = A0;
+int camPin2 = A1;
+int camPin3 = A2;
+int camPin4 = A3;
+int camPin5 = 4;
+int camPin6 = 5;
+int camPin7 = 6;
+int camPin8 = 7;
+
+void setup() {
+  pinMode(rx,
+  pinMode(tx,
+  pinMode(sensPin,INPUT);
+  pinMode(camPin1,
+  pinMode(camPin2,
+  pinMode(camPin3,
+  pinMode(camPin4,
+  pinMode(camPin5,
+  pinMode(camPin6,
+  pinMode(camPin7,
+  pinMode(camPin8,
+}
+
+void loop() {
+  
+}
